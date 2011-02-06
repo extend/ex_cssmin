@@ -1,0 +1,4 @@
+CSS minifier.
+
+Based on the YUI Compressor CSS minifier by Julien Lecomte,
+itself adapted from Isaac Schlueter's cssmin utility.

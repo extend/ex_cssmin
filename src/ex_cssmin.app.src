@@ -1,0 +1,3 @@
+{application, ex_cssmin,
+	[{description, "Minify CSS files."},
+	 {applications, [kernel, stdlib]}]}.
